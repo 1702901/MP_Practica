@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\debug.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\image_png.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\keyboard.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\mouse.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\sound.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\sprites.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\stb_vorbis.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\video.cpp">
+      <Filter>Graphic Lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont.cpp">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.cpp">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\GraphicManager.cpp">
+      <Filter>Logic Game\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\Partida.cpp">
+      <Filter>Logic Game\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\main.cpp">
+      <Filter>Logic Game\Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\DiferentsJocs.cpp">
+      <Filter>Logic Game\ownCode\diferentsJocs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\enemigo.cpp">
+      <Filter>Logic Game\ownCode\towerTetris\enemigo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\figura.cpp">
+      <Filter>Logic Game\ownCode\figura</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\Tauler.cpp">
+      <Filter>Logic Game\ownCode\tauler</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\funcionAuxiliars.cpp">
+      <Filter>Logic Game\ownCode\funcioAuxiliar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\JocTower.cpp">
+      <Filter>Logic Game\ownCode\towerTetris\jocCode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\mago.cpp">
+      <Filter>Logic Game\ownCode\towerTetris\mago</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\slime.cpp">
+      <Filter>Logic Game\ownCode\towerTetris\slime</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\0. C++ Code\Logic Game\ownCode\Joc.cpp">
+      <Filter>Logic Game\ownCode\diferentsJocs\codi</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\debug.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\error.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\image_png.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\keyboard.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\keyboard_sdl.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\libreria.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\mouse.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\sound.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\sprites.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\stb_vorbis.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\video.h">
+      <Filter>Graphic Lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\NFont_gpu.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Graphic Lib\NFont\SDL_FontCache.h">
+      <Filter>Graphic Lib\NFont</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\GraphicManager.h">
+      <Filter>Logic Game\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\InfoJoc.h">
+      <Filter>Logic Game\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\Partida.h">
+      <Filter>Logic Game\Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\struct.h">
+      <Filter>Logic Game\ownCode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\DiferentsJocs.h">
+      <Filter>Logic Game\ownCode\diferentsJocs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\enemigo.h">
+      <Filter>Logic Game\ownCode\towerTetris\enemigo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\figura.h">
+      <Filter>Logic Game\ownCode\figura</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\Tauler.h">
+      <Filter>Logic Game\ownCode\tauler</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\funcionAuxiliar.h">
+      <Filter>Logic Game\ownCode\funcioAuxiliar</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\JocTower.h">
+      <Filter>Logic Game\ownCode\towerTetris\jocCode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\mago.h">
+      <Filter>Logic Game\ownCode\towerTetris\mago</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\slime.h">
+      <Filter>Logic Game\ownCode\towerTetris\slime</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\0. C++ Code\Logic Game\ownCode\Joc.h">
+      <Filter>Logic Game\ownCode\diferentsJocs\codi</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Logic Game">
+      <UniqueIdentifier>{b995966c-740d-4169-a8c9-401398615794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic Lib">
+      <UniqueIdentifier>{bdb3dc88-f1a5-432d-99ec-5746c2ec45f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic Lib\NFont">
+      <UniqueIdentifier>{2d2b6b7d-a117-43ba-b140-53493b5ebdfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\Header files">
+      <UniqueIdentifier>{e2e6252b-1a33-464e-b016-1ea03dc03788}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\Source files">
+      <UniqueIdentifier>{cbe27357-35d7-40c4-ae4b-908075278f4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode">
+      <UniqueIdentifier>{73946585-8127-4b23-8149-e5578a3d27b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\diferentsJocs">
+      <UniqueIdentifier>{79d70d28-d0f6-4072-9eb3-7e20e1e9d7eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\figura">
+      <UniqueIdentifier>{2d4bb63c-eadb-4112-8a21-78333b0a2ed0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\towerTetris">
+      <UniqueIdentifier>{3b166a7f-b0a1-4457-b71c-093f0a43d67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\tauler">
+      <UniqueIdentifier>{b9e61301-bd8c-4ec0-a9c2-caeb490ced02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\funcioAuxiliar">
+      <UniqueIdentifier>{4eca289c-80a1-4d52-bbd7-d7cef80c78a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\towerTetris\enemigo">
+      <UniqueIdentifier>{11088f84-fba8-49e7-87fb-0ed401f043df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\towerTetris\jocCode">
+      <UniqueIdentifier>{bd64d7f7-379d-4d57-945b-331cedc61d6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\towerTetris\mago">
+      <UniqueIdentifier>{3148e312-14c1-4dc3-8368-70c471da28ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\towerTetris\slime">
+      <UniqueIdentifier>{ed976123-67cb-4512-a07d-bbff8a7334bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logic Game\ownCode\diferentsJocs\codi">
+      <UniqueIdentifier>{30df9929-7922-4270-9d6b-dd22f5ee973c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
